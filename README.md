@@ -1,6 +1,6 @@
 # SMB-Share-Audit
 
-![CI]
+
 
 **Read-only** audit of the SMB file shares of a Windows PC, with an HTML summary report.
 
